@@ -1,25 +1,15 @@
-# Ember-cli-ic-menu
+## ember-cli-ic-menu
 
-This README outlines the details of collaborating on this Ember addon.
+This addon that adds `ic-menu` to the generated Ember CLI output.
 
-## Installation
+### Installation / Usage
 
-* `git clone` this repository
-* `npm install`
-* `bower install`
+From within your Ember CLI application (must be >= 0.1.4), run the following:
 
-## Running
+```bash
+npm install --save-dev ember-cli-ic-menu
+```
 
-* `ember server`
-* Visit your app at http://localhost:4200.
+### References
 
-## Running Tests
-
-* `ember test`
-* `ember test --server`
-
-## Building
-
-* `ember build`
-
-For more information on using ember-cli, visit [http://www.ember-cli.com/](http://www.ember-cli.com/).
+* [ic-menu](https://github.com/instructure/ic-menu)
