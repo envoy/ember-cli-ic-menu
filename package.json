@@ -43,6 +43,6 @@
     "configPath": "tests/dummy/config"
   },
   "dependencies": {
-    "ic-menu": "OutrageousLabs/ic-menu#90eb2ba02dd"
+    "ic-menu": "envoy/ic-menu#3a0cdb7e3"
   }
 }
